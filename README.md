@@ -3,6 +3,7 @@ services: app-service\web,app-service
 platforms: dotnet
 author: tiagocostapt
 ---
+---
 
 # ASP.NET sample for Azure App Service
 

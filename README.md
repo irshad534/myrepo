@@ -4,6 +4,7 @@ platforms: dotnet
 author: tiagocostapt
 ---
 ---
+---
 
 # ASP.NET sample for Azure App Service
 
